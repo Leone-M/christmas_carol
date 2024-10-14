@@ -1,5 +1,4 @@
 fn main() {
-
     // On the n'th day of Christmas, my true love sent to me
     // Twelve drummers drumming
     // Eleven pipers piping
